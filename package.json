@@ -10,6 +10,6 @@
   "author": "Daniel Torres <danielfeelfine@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.56.0"
+    "react-native": "^0.61.0"
   }
 }
