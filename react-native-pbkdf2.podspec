@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
   s.homepage     = package['homepage']
   s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/evernym/react-native-pbkdf2.git" }
+  s.source       = { :git => "https://github.com/evernym/react-native-pbkdf2.git", :tag => "v#{s.version}" }
   s.source_files  = "ios/**/*.{h,m}"
 end

@@ -1,6 +1,6 @@
 {
   "name": "react-native-pbkdf2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Password Based Key Derivation 2 (PBKDF2) algorithm for React Native",
   "main": "index.js",
   "keywords": [
@@ -9,6 +9,7 @@
   ],
   "author": "Daniel Torres <danielfeelfine@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/evernym/react-native-pbkdf2",
   "peerDependencies": {
     "react-native": "^0.61.0"
   }
