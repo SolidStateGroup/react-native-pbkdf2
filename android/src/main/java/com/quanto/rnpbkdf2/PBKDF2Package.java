@@ -1,4 +1,4 @@
-package rnpbkdf2;
+package com.quanto.rnpbkdf2;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

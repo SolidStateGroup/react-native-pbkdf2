@@ -1,4 +1,4 @@
-package rnpbkdf2;
+package com.quanto.rnpbkdf2;
 
 import com.facebook.react.bridge.Promise;
 import com.facebook.react.bridge.ReactApplicationContext;
